@@ -90,7 +90,7 @@ h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 80px;
 }
 
 #header.header-scrolled,
@@ -501,6 +501,10 @@ section {
 }
 
 .section-title h3 span {
+  color: #B620E0;
+}
+
+.icon-box h4 span {
   color: #B620E0;
 }
 
@@ -1961,6 +1965,10 @@ section {
   border: 1px solid #f7c2cc;
 }
 
+#footer .footer-newsletter p {
+  color: #ffff;
+}
+
 #footer .footer-newsletter form input[type=email] {
   border: 0;
   padding: 4px 8px;
@@ -1996,7 +2004,7 @@ section {
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #B620E0;
+  background: #183B56;;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
