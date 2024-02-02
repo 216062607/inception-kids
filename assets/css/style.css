@@ -19,6 +19,12 @@ a {
   text-decoration: none;
 }
 
+.img1{
+  height: 80px;
+  width: 80px;
+  border-radius: 20px;
+}
+
 a:hover {
   color: #B620E0;
   text-decoration: none;
