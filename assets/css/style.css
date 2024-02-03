@@ -19,12 +19,6 @@ a {
   text-decoration: none;
 }
 
-.img1{
-  height: 80px;
-  width: 80px;
-  border-radius: 20px;
-}
-
 a:hover {
   color: #B620E0;
   text-decoration: none;
@@ -461,15 +455,16 @@ img{
   }
 
   #hero h2 {
-    font-size: 18px;
+    font-size: 25px;
     line-height: 24px;
     margin-bottom: 30px;
+    font-weight: 200;
   }
 }
 
-@media (max-height: 500px) {
+@media (max-height: 300px) {
   #hero {
-    height: 150vh;
+    height: 100vh;
   }
 }
 
@@ -477,7 +472,7 @@ img{
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 60px 0;
+  padding: 10px 0;
   overflow: hidden;
 }
 
